@@ -1,4 +1,4 @@
-public class \MergeSort {
+public class MergeSort {
      
     private int[] array;
     private int[] tempMergArr;
