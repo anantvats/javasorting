@@ -1,7 +1,8 @@
 // JAVA Code For Trapping Rain Water 
+// https://www.geeksforgeeks.org/trapping-rain-water/
 import java.util.*; 
 
-class TrappingRainWater { 
+public class TrappingRainWater { 
 
 	static int findWater(int arr[], int n) 
 	{ 
@@ -54,4 +55,3 @@ class TrappingRainWater {
 						+ findWater(arr, n)); 
 	} 
 } 
-// This code is contributed by Arnav Kr. Mandal. 
